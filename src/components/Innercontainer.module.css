@@ -1,5 +1,7 @@
 .innercontainers{
-    background-color: aqua;
+    flex: 2;
+    padding: 10px;
+    margin: 10px;
 }
 
 
